@@ -1,0 +1,5 @@
+C:\Users\mpuntenn\Documents\Visual Studio 2010\Projects\WebFrames\WebFrames\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mpuntenn\Documents\Visual Studio 2010\Projects\WebFrames\WebFrames\bin\Debug\WebFrames.exe
+C:\Users\mpuntenn\Documents\Visual Studio 2010\Projects\WebFrames\WebFrames\bin\Debug\WebFrames.pdb
+C:\Users\mpuntenn\Documents\Visual Studio 2010\Projects\WebFrames\WebFrames\obj\x86\Debug\WebFrames.exe
+C:\Users\mpuntenn\Documents\Visual Studio 2010\Projects\WebFrames\WebFrames\obj\x86\Debug\WebFrames.pdb
